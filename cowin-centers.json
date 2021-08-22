@@ -1,0 +1,200 @@
+{
+  "centers": [
+    {
+      "center_id": 584600,
+      "name": "MMHRC Session Site",
+      "address": "Madurai",
+      "state_name": "Tamil Nadu",
+      "district_name": "Madurai",
+      "block_name": "Zone 2",
+      "pincode": 625007,
+      "lat": 9,
+      "long": 78,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "63dfcd0b-e294-4b66-8148-4bd5bd2615a8",
+          "date": "09-07-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "allow_all_age": true,
+          "vaccine": "SPUTNIK V",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "ae9fc456-44ae-4220-9485-97d32d7897be",
+          "date": "10-07-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "allow_all_age": true,
+          "vaccine": "SPUTNIK V",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "e92d8212-2316-40f8-a0b0-fe6bb353a36f",
+          "date": "11-07-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "allow_all_age": true,
+          "vaccine": "SPUTNIK V",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "SPUTNIK V",
+          "fee": "1145"
+        }
+      ]
+    },
+    {
+      "center_id": 587337,
+      "name": "Apollo Speciality Hospital",
+      "address": "Lake View Road K K NagarMadurai",
+      "state_name": "Tamil Nadu",
+      "district_name": "Madurai",
+      "block_name": "Zone 2",
+      "pincode": 625020,
+      "lat": 9,
+      "long": 78,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "04f6aee1-7e47-4a27-8b87-cb92a6676e91",
+          "date": "09-07-2021",
+          "available_capacity": 57,
+          "min_age_limit": 18,
+          "allow_all_age": true,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 57,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "69facc76-1f50-4448-9df3-98c6f94100bd",
+          "date": "09-07-2021",
+          "available_capacity": 198,
+          "min_age_limit": 18,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 162,
+          "available_capacity_dose2": 36
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        },
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1410"
+        }
+      ]
+    },
+    {
+      "center_id": 601632,
+      "name": "Vadamalayan Hospital",
+      "address": "15 Jawahar Road Chokkikulam Madurai",
+      "state_name": "Tamil Nadu",
+      "district_name": "Madurai",
+      "block_name": "South",
+      "pincode": 625002,
+      "lat": 9,
+      "long": 78,
+      "from": "13:00:00",
+      "to": "16:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "25895ff5-646d-4d8b-acf0-a6b855544f41",
+          "date": "09-07-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "allow_all_age": true,
+          "vaccine": "SPUTNIK V",
+          "slots": [
+            "01:00PM-03:00PM",
+            "03:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "20714d4f-ce6a-4344-bd14-a8f14d2269b7",
+          "date": "10-07-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "allow_all_age": true,
+          "vaccine": "SPUTNIK V",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "a5a6fc4b-a27d-441c-ba14-c7bce60a1e75",
+          "date": "12-07-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "allow_all_age": true,
+          "vaccine": "SPUTNIK V",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "SPUTNIK V",
+          "fee": "1145"
+        }
+      ]
+    }
+  ]
+}
